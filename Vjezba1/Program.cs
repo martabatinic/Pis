@@ -7,6 +7,7 @@ namespace Vjezba1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World2!!!");
+            Console.WriteLine("Dodano!");
         }
     }
 }
