@@ -8,6 +8,7 @@ namespace Vjezba1
         {
             Console.WriteLine("Hello World2!!!");
             Console.WriteLine("Dodano!");
+            Console.WriteLine("weeee!");
         }
     }
 }
